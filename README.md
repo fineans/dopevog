@@ -12,11 +12,11 @@ Here are some quick things about me:
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=dopevog&show_icons=true&count_private=true&theme=vision-friendly-dark&icon_color=ffd95b)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=fineans&show_icons=true&count_private=true&theme=vision-friendly-dark&icon_color=ffd95b)
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fineans&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
   
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fineans&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)
   
   
 </details>
